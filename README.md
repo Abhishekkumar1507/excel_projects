@@ -1,6 +1,6 @@
 ## Excel Dashboards
 1. **Walmart Sales and Profit Analysis Dashboard**
-   [Dashboard](https://docs.google.com/spreadsheets/d/1RdtcRyUi_HN_Ec0GKMrzFeda8Jj2Mk_Q/edit?usp=drive_link&ouid=107419540472209150642&rtpof=true&sd=true)
+   [Dashboard](https://docs.google.com/spreadsheets/d/1V6zVdMnvIUkpQ_Llcq3DIoqhwaht1afj/edit?usp=sharing&ouid=107419540472209150642&rtpof=true&sd=true)
    [EDA](https://docs.google.com/spreadsheets/d/1RdtcRyUi_HN_Ec0GKMrzFeda8Jj2Mk_Q/edit?usp=sharing&ouid=107419540472209150642&rtpof=true&sd=true)
    ![Walmart_Dashboard_1](https://github.com/Abhishekkumar1507/excel_projects/assets/76273548/7a9b5694-1ed6-4ee4-85c3-d87c5f6c1570)
    ![Walmart_Dashboard_2](https://github.com/Abhishekkumar1507/excel_projects/assets/76273548/f0be9631-6a9c-4a2f-a7d8-89e16bb75bc5)
